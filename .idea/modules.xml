@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Appium/.idea/Appium.iml" filepath="$PROJECT_DIR$/../Appium/.idea/Appium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AutomationPython_Learning/.idea/AutomationPython_Learning.iml" filepath="$PROJECT_DIR$/../AutomationPython_Learning/.idea/AutomationPython_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Automation_Testing/.idea/Automation_Testing.iml" filepath="$PROJECT_DIR$/../Automation_Testing/.idea/Automation_Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pytest_Learning.iml" filepath="$PROJECT_DIR$/.idea/Pytest_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_POM_Framework/.idea/WebAutomation_Python.iml" filepath="$PROJECT_DIR$/../Python_POM_Framework/.idea/WebAutomation_Python.iml" />
+    </modules>
+  </component>
+</project>
