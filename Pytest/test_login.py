@@ -9,3 +9,5 @@ def test_EnterUsername():
 @pytest.mark.sanity
 def test_EnterPassword():
     print("password method")
+
+    # 1
