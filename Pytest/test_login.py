@@ -10,7 +10,5 @@ def test_EnterUsername():
 def test_EnterPassword():
     print("password method")
 
-    # 1- nikhil
-    # 2 - pratik
+#   Code add from new branch
 
-    print("hello world")
